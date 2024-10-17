@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"extensions": {"recommendations": ["samplavigne.p5-vscode"]},
+	"settings": {}
+}
