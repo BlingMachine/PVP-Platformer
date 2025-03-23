@@ -3,7 +3,7 @@ Live, browser-based platformer game that you can play with a friend!
 
 ## Getting Started
 - Download the zip
-- Open the project in an IDE like VSCode
+- Open the project in Visual Studio Code (VS Code)
 - Run the project
 - The game will open in a new tab within your preferred browser
 - Enjoy!
