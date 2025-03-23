@@ -2,11 +2,11 @@
 Live, browser-based platformer game that you can play with a friend!
 
 ## Getting Started
-- Download the zip
-- Open the project in Visual Studio Code (VS Code)
-- Run the project
-- The game will open in a new tab within your preferred browser
-- Enjoy!
+1. Download the zip
+2. Open the project in Visual Studio Code (VS Code)
+3. Run the project
+4. The game will open in a new tab within your preferred browser
+5. Enjoy!
 
 ## How to PLay
 1. Each player may enter their names on the main menu.
