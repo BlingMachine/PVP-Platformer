@@ -41,3 +41,6 @@ p5.js JavaScript library
 - Elijah Mays
 - Shanmukh Reddy
 - Josue Chavez
+
+## License
+This project is licensed under the MIT License - see the LICENSE.txt file for details
