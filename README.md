@@ -1,5 +1,5 @@
 # PVP-Platformer
-Simple platformer game that you can play with a friend!
+Live, browser-based platformer game that you can play with a friend!
 
 ## Getting Started
 - Download the zip
@@ -32,7 +32,7 @@ Player 2:
 - Attack: "/" key
 
 ## Built With
-- P5 javascript
+- p5.js JavaScript library
 
 ## Authors 
 - Bryce Harger 
