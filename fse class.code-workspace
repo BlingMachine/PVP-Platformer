@@ -1,9 +1,11 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
-	],
-	"extensions": {"recommendations": ["samplavigne.p5-vscode"]},
-	"settings": {}
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "extensions": {
+    "recommendations": ["samplavigne.p5-vscode", "esbenp.prettier-vscode"]
+  },
+  "settings": {}
 }
