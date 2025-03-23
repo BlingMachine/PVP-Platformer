@@ -32,7 +32,7 @@ Player 2:
 - Attack: "/" key
 
 ## Built With
-- p5.js JavaScript library
+p5.js JavaScript library
 
 ## Authors 
 - Bryce Harger 
