@@ -4,9 +4,10 @@ Live, browser-based platformer game that you can play with a friend!
 ## Getting Started
 1. Download the zip
 2. Open the project in Visual Studio Code (VS Code)
-3. Run the project
-4. The game will open in a new tab within your preferred browser
-5. Enjoy!
+3. Install the p5.vscode extension
+4. Click "Go Live" in the bottom right to launch
+5. The game will open in a new tab within your preferred browser
+6. Enjoy!
 
 ## How to PLay
 1. Each player may enter their names on the main menu.
